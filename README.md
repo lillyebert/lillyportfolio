@@ -1,6 +1,7 @@
 # lillyportfolio
 Portfolio for Lilly
 # FirstName LastName
+Lilly Ebert
 
 ### About Me
 Hello! I am currently a sophomore at Loyola University Maryland.
@@ -15,9 +16,10 @@ I am a sophmore at Loyola University Maryland working on completing a Sociology 
 ### Projects
 
 #### Project 1 Title
+Grade Calculator
 - ![Image](link-to-image)
 - [Read the Report](link-to-report)
-
+- 
 ***
 #### Project 2 Title
 - ![Image](link-to-image)
