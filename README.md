@@ -6,7 +6,7 @@ Portfolio for Lilly
 ### About Me
 Hello! I am currently a sophomore at Loyola University Maryland.
 With skills in excel, python, access, and coding, I am able to create spreadsheets to organize and analyze data, and achieve a greater understanding of the data. I am adept at using onlinegdb, jdoodle, and access.
-My great skill set, commitment to excellent work, and passion for coding garners me as a valuable asset. In my spare time, I like to draw and read. You can find me on www.linkedin.com/in/lilly-ebert-600ba3270
+My great skill set, commitment to excellent work, and passion for coding garners me as a valuable asset. In my spare time, I like to draw and read. You can find me on [Linked In](<www.linkedin.com/in/lilly-ebert-600ba3270>)
 
 
 ### Education
@@ -20,7 +20,7 @@ Loyola University Maryland
 - I came up with this project because I wanted an easy way to calculate my grades in my classes. I wanted an accurate and easy way to plug in my assignment and test grades and be able to easily see my current grade. It was needed because moodle is not always accurate or up to date with grades. I used excel to complete this project. I had a little bit of trouble figuring out how to calculate the final grade in excel using the information I provided but I was able to fix it. I used the grades I received on moodle and the syllabus for my classes to calculate the weight for each assignment. I did not collaborate with anyone else. I set out to have a document where I had all my grades easily laid out and a way to accurately calculate my final grade for a class. If I had the chance to take this further I would have done it for each of my classes but I did not have the time for it originally.
 Summary:
 In this project I wrote out all my assignments, their weight, and the points I earned for them. Then, I calculated the grade I received for each assignment. I then used the grades I received and calculated my final grade and letter grade for the class.
-![Grade Calculator](<https://studentsloyola-my.sharepoint.com/:x:/g/personal/lsebert_loyola_edu/IQBNlUlQxFDYQY7C-yiYA6AmAebgDVeWfkvWG_Xdr8wlz8k?e=Jfz5ae>)
+[Grade Calculator](<https://studentsloyola-my.sharepoint.com/:x:/g/personal/lsebert_loyola_edu/IQBNlUlQxFDYQY7C-yiYA6AmAebgDVeWfkvWG_Xdr8wlz8k?e=Jfz5ae>)
 
 
 ***
